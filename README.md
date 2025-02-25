@@ -43,7 +43,7 @@ This project aims to improve the lead conversion rate for **X Education**, an on
 
 ## **How to Run This Project**
 1. Clone the repository:
-   git clone https://github.com/your-username/lead-scoring-case-study.git
+   git clone (https://github.com/AyushSaraswat2811/Problem_solved)
    
 2. Install required dependencies:
    
